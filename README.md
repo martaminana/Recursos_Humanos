@@ -3,10 +3,6 @@
  
 Este repositorio es del analisis exploratorio que he realizado sobre el Departamento de Recursos Humanos de la empresa Sku-DOn (Ficticia).
 
- 
-## Proyecto:
-
-###  Accidentes de tráfico de la ciudad de Madrid (2020)
 
 * Datos aportados en el curso de Udemy de 25 horas de duración que he realizado 
 * Se tienen tres tablas con datos:
